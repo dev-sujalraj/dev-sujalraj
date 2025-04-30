@@ -12,4 +12,4 @@ Hi there! I'm **Sujal Raj**, passionate about **Cloud Computing, DevOps, and Aut
 - Building automated deployment pipelines  
 
 🔗 **Let's Connect:**  
-[LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/sujal-codes-82085b332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Twitter](#) | [Portfolio](#)
